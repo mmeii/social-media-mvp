@@ -1,5 +1,7 @@
 # social-media-mvp
 
+![Current ER diagram - WIP](er_diagram.png)
+
 ## Tech Stack 
 * Database
   * MySQL 
