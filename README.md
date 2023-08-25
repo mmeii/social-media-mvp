@@ -2,13 +2,6 @@
 
 ![Current ER diagram - WIP](er_diagram.png)
 
-## Tech Stack 
-* Database
-  * MySQL 
-* APIs 
-  * [Open Weather Map - Weather API](https://openweathermap.org/api/one-call-3)
-  * [Open Weather Map - Geolocation API](https://openweathermap.org/api/geocoding-api) 
-
 ## Front-end
 ### Pages
 * Login
@@ -26,5 +19,9 @@
   * Posts
 * Weather - side or something TBD
 
-
-
+## Tech Stack 
+* Database
+  * MySQL 
+* APIs 
+  * [Open Weather Map - Weather API](https://openweathermap.org/api/one-call-3)
+  * [Open Weather Map - Geolocation API](https://openweathermap.org/api/geocoding-api) 
