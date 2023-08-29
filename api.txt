@@ -1,0 +1,17 @@
+Get all users 
+Get individual user based on id/username/name 
+Get all posts 
+Get all posts from specific user 
+
+Post new user 
+Post new post 
+Post new follower 
+
+Update user 
+Update post 
+Update follower? 
+
+Delete user 
+Delete post 
+Delete follower? 
+
